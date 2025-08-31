@@ -14,6 +14,7 @@ CPU:intel Core i5-9600KF
 
 网卡:AC3168NGW+Ethernet Connection  I219-V
 
+-----------------------------------------------
 适用Macos版本---Macos26 Tahoe
 
 显卡驱动正常，命名W6600X
